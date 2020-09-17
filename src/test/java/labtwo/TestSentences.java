@@ -11,6 +11,7 @@ import org.junit.Test;
  * A JUnit test suite for the Sentences class.
  *
  * @author Janyl Jumadinova
+ * @author Add Your Name Here
  */
 
 public class TestSentences {

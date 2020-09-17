@@ -22,9 +22,14 @@
 - [Automated Checks with GatorGrader](#automated-checks-with-gatorgrader)
 
 - [Using GitHub Actions CI](#using-github-actions-ci)
+
 - [Reporting Problems](#reporting-problems)
+
 - [Receiving Assistance](#receiving-assistance)
+
 - [Project Assessment](#project-assessment)
+
+- [Optional Bonus Challenge](#optional-bonus-challenge)
 
 ## Objectives
 
@@ -288,3 +293,7 @@ The grade that a student receives on this assignment will have the following com
 
 - **Mastery of Technical Knowledge and Skills [up to 10% of the lab grade]**: Students will receive<br>
   a part of their grade when their GitHub repository reveals that they have mastered all of the technical knowledge and skills developed during the completion of this project. As a part of this grade, the instructor will assess aspects of the project including, but not limited to, the use of effective source code comments and Git commit messages. Students are encouraged to ask the course instructor or a student technical leader to use the GitHub issue tracker to provide feedback on how well their work demonstrates mastery of the assignment's technical knowledge and skills.
+  
+## Optional Bonus Challenge
+
+As an additional challenge, you can implement a random placement of sentences, where each sentence in the original text is randomly assigned to a new placement in the text.

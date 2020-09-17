@@ -16,8 +16,6 @@ public class SentencesReverser {
    * The starting point for executing the SentencesReverser.
    *
    * @param args The command line arguments
-   *
-   * @author Add Your Name Here
    */
   public static void main(String[] args) throws IOException {
     // STEP 1: Constructs the sentences object and read them from file
