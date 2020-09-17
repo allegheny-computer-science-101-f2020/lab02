@@ -263,7 +263,7 @@ If [GatorGrader's](https://github.com/GatorEducator/gatorgrader) automated check
 
 ```
         ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-        ┃ Passed 48/48 (100%) of checks for cs101-F2019-lab2! ┃
+        ┃ Passed 48/48 (100%) of checks for cs101f2020-lab02! ┃
         ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
